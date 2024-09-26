@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Adri13RodriB
-- 👀 I’m interested in  fazer jogos!
-- 🌱 I’m currently learning  a usar o github :3
-Adri13RodriB/Adri13RodriB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Oi! Eu me chamo Adriano Leandro
+- ![Gif - Descrição](https://i.pinimg.com/originals/f4/19/71/f4197161f1e619baa30fd753eec7b154.gif)
+- :star: Estou usando o GitHub para fazer as aulas de Pensamento Computacional :smile:
+- :star2: Mas só sou um moleke de 17 anos apaixonado em carros K
